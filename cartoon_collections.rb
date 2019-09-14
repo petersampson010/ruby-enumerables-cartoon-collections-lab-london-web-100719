@@ -2,8 +2,8 @@ def roll_call_dwarves(array)
   array.each_with_index { |i, index| p"#{index+1} #{i}" }
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
+def summon_captain_planet(plant)
+  plant.map
 end
 
 def long_planeteer_calls# code an argument here
